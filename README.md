@@ -53,6 +53,9 @@ Both the original work and this driver are licensed under the GNU General Public
 
 Comments, issues, and contributions are welcome.
 
-Author: Sergio José Muñoz López (semulopez@gmail.com)
-Tutor: Corrado Guarino Lo Bianco (guarino@ce.unipr.it)
-Based on the work of: Nicolas Schurando (schurann@ext.essilor.com).
+Author: Sergio José Muñoz López (semulopez@gmail.com)  
+ 
+Tutor: Corrado Guarino Lo Bianco (guarino@ce.unipr.it)  
+ 
+Based on the work of: Nicolas Schurando (schurann@ext.essilor.com)
+ 
