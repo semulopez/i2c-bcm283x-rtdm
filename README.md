@@ -39,6 +39,10 @@ The system log should display something like:
 Once loaded, the driver will expose the device:
  * `/dev/rtdm/i2cdev0.0`
 
+# Skin for i2c-bcm283x-rtmd driver
+https://github.com/semulopez/rt-i2c-skin.git
+
+
 ## Credits
 
 This code should be considered as a wrapper around the great user-space bcm2835 library written by Mike McCauley and available at http://www.airspayce.com/mikem/bcm2835/.
