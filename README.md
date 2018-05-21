@@ -49,6 +49,8 @@ This code should be considered as a wrapper around the great user-space bcm2835 
 
 His code underwent only minor modifications, in order to make it compatible with kernel-space.
 
+**This project is a fork of the SPI RT driver developed by Nicolas Schurando (schurann@ext.essilor.com), more about the driver at https://github.com/nicolas-schurando/spi-bcm283x-rtdm.**
+
 Both the original work and this driver are licensed under the GNU General Public License version 2 (GPLv2).
 
 Comments, issues, and contributions are welcome.
@@ -56,6 +58,4 @@ Comments, issues, and contributions are welcome.
 Author: Sergio José Muñoz López (semulopez@gmail.com)  
  
 Tutor: Corrado Guarino Lo Bianco (guarino@ce.unipr.it)  
- 
-Based on the work of: Nicolas Schurando (schurann@ext.essilor.com)
  
